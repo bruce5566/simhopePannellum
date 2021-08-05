@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/simhopePannellum/static/css/main.dcc337b2.chunk.css",
-    "main.js": "/simhopePannellum/static/js/main.12ded735.chunk.js",
+    "main.js": "/simhopePannellum/static/js/main.1463ede4.chunk.js",
     "runtime-main.js": "/simhopePannellum/static/js/runtime-main.01f2cf8d.js",
     "static/css/2.c846ec70.chunk.css": "/simhopePannellum/static/css/2.c846ec70.chunk.css",
     "static/js/2.7d72d0bd.chunk.js": "/simhopePannellum/static/js/2.7d72d0bd.chunk.js",
@@ -14,6 +14,7 @@
     "static/media/SH-350.d6ab7b15.jpg": "/simhopePannellum/static/media/SH-350.d6ab7b15.jpg",
     "static/media/SH-40.b1123107.jpg": "/simhopePannellum/static/media/SH-40.b1123107.jpg",
     "static/media/pannellum.css": "/simhopePannellum/static/media/sprites.c08944fe.svg",
+    "static/media/logo.1ed7587e.png": "/simhopePannellum/static/media/logo.1ed7587e.png",
     "static/media/map.b24e63dc.jpg": "/simhopePannellum/static/media/map.b24e63dc.jpg",
     "static/media/nextW.e2be676e.png": "/simhopePannellum/static/media/nextW.e2be676e.png",
     "static/media/view-1.a30b1655.jpg": "/simhopePannellum/static/media/view-1.a30b1655.jpg",
@@ -24,6 +25,6 @@
     "static/css/2.c846ec70.chunk.css",
     "static/js/2.7d72d0bd.chunk.js",
     "static/css/main.dcc337b2.chunk.css",
-    "static/js/main.12ded735.chunk.js"
+    "static/js/main.1463ede4.chunk.js"
   ]
 }
