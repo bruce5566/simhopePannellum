@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/simhopePannellum/static/css/main.dcc337b2.chunk.css",
-    "main.js": "/simhopePannellum/static/js/main.e331b6eb.chunk.js",
+    "main.js": "/simhopePannellum/static/js/main.1a8d48a5.chunk.js",
     "runtime-main.js": "/simhopePannellum/static/js/runtime-main.01f2cf8d.js",
     "static/css/2.c846ec70.chunk.css": "/simhopePannellum/static/css/2.c846ec70.chunk.css",
     "static/js/2.7d72d0bd.chunk.js": "/simhopePannellum/static/js/2.7d72d0bd.chunk.js",
@@ -15,6 +15,6 @@
     "static/css/2.c846ec70.chunk.css",
     "static/js/2.7d72d0bd.chunk.js",
     "static/css/main.dcc337b2.chunk.css",
-    "static/js/main.e331b6eb.chunk.js"
+    "static/js/main.1a8d48a5.chunk.js"
   ]
 }
