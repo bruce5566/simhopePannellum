@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/simhopePannellum/static/css/main.dcc337b2.chunk.css",
-    "main.js": "/simhopePannellum/static/js/main.1a8d48a5.chunk.js",
+    "main.css": "/simhopePannellum/static/css/main.65be5620.chunk.css",
+    "main.js": "/simhopePannellum/static/js/main.dd1b3952.chunk.js",
     "runtime-main.js": "/simhopePannellum/static/js/runtime-main.01f2cf8d.js",
     "static/css/2.c846ec70.chunk.css": "/simhopePannellum/static/css/2.c846ec70.chunk.css",
     "static/js/2.7d72d0bd.chunk.js": "/simhopePannellum/static/js/2.7d72d0bd.chunk.js",
     "static/js/3.87256feb.chunk.js": "/simhopePannellum/static/js/3.87256feb.chunk.js",
     "index.html": "/simhopePannellum/index.html",
     "static/js/2.7d72d0bd.chunk.js.LICENSE.txt": "/simhopePannellum/static/js/2.7d72d0bd.chunk.js.LICENSE.txt",
-    "static/media/pannellum.css": "/simhopePannellum/static/media/sprites.c08944fe.svg"
+    "static/media/pannellum.css": "/simhopePannellum/static/media/sprites.c08944fe.svg",
+    "static/media/icon_02.a0c18cd0.svg": "/simhopePannellum/static/media/icon_02.a0c18cd0.svg",
+    "static/media/icon_03.7146d07f.svg": "/simhopePannellum/static/media/icon_03.7146d07f.svg",
+    "static/media/icon_04.1a3ae95f.svg": "/simhopePannellum/static/media/icon_04.1a3ae95f.svg",
+    "static/media/icon_05.7eb0fc7f.svg": "/simhopePannellum/static/media/icon_05.7eb0fc7f.svg",
+    "static/media/nextW.07e0d3ea.svg": "/simhopePannellum/static/media/nextW.07e0d3ea.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.01f2cf8d.js",
     "static/css/2.c846ec70.chunk.css",
     "static/js/2.7d72d0bd.chunk.js",
-    "static/css/main.dcc337b2.chunk.css",
-    "static/js/main.1a8d48a5.chunk.js"
+    "static/css/main.65be5620.chunk.css",
+    "static/js/main.dd1b3952.chunk.js"
   ]
 }
